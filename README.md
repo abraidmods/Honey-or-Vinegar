@@ -1,2 +1,2 @@
 # yinzerville
-custom qbcore server
+
