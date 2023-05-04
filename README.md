@@ -1,5 +1,5 @@
 # Honey or Vinegar
-Horror game to be realeased by Holiday 2022
+Fun & Cute Cat game to be realeased by Holiday 2023
 <br>
 This game will be ported to PS Vita homebrew also <(-_-<)
 
