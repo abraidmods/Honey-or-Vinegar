@@ -1,3 +1,3 @@
 # Honey-or-Vinegar
-Fun & Cute Cat game to be realeased by Holiday 2023
-This game will be ported to PS Vita homebrew also <(-_-<)
+Gameboy/Color game to be released by 8/23/2025
+
